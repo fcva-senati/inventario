@@ -11,5 +11,13 @@
         <h3>
             <a href="{{ route('cliente.index') }}">Clientes</a>
         </h3>
+        <br>
+        <h3>
+            <a href="{{ route('categorias.index') }}">Categorias</a>
+        </h3>
+        <br>
+        <h3>
+            <a href="{{ route('productos.index') }}">Productos</a>
+        </h3>
     </body>
 </html>
